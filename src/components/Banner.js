@@ -46,5 +46,4 @@ function Banner() {
     </header>
   )
 }
-
 export default Banner;
